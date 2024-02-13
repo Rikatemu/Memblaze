@@ -20,7 +20,7 @@ Memblaze is a simple, in-memory database designed as an open-source learning pro
 To get started with Memblaze, clone the repository and build the project:
 
 ```bash
-git clone https://github.com/yourusername/memblaze.git
+git clone https://github.com/Rikatemu/Memblaze.git
 cd memblaze
 cargo build --release
 ```
